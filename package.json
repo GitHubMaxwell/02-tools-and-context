@@ -1,0 +1,22 @@
+{
+  "name": "02-tools-and-context",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubMaxwell/02-tools-and-context.git"
+  },
+  "author": "maxwell rediker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubMaxwell/02-tools-and-context/issues"
+  },
+  "homepage": "https://github.com/GitHubMaxwell/02-tools-and-context#readme",
+  "dependencies": {
+    "jest": "^22.4.4"
+  }
+}
