@@ -56,7 +56,6 @@ class List {
         newArr = this[i];
       }
     }
-    console.log(newArr);
     return newArr;
   }
 }
